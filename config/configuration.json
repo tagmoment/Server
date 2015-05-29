@@ -1,0 +1,16 @@
+{
+    "maskConfig": {
+        "maskNames": ["moment", "casual", "nameit", "u&me", "waves", "flat", "xoxo"],
+        "defaultIndex": 0
+    },
+    "filtersConfig": {
+        "filters": ["No Filter", "Chilled" , "Concept", "bpm", "feelings", "Antique", "Wish", "Cocktail", "pixel", "Take Off", "Antique", "feelings"],
+        "defaultIndex": 0
+    },
+    "sharingConfig":{
+        "wordTags":[],
+        "emojiTags":[],
+        "sharingAvailable":[]
+    }
+
+}
